@@ -15,6 +15,7 @@ export default function App() {
     </SafeAreaView>
   );
 }
+//ola
 
 function Header({pagina, setPagina }){
   return (
